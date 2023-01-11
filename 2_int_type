@@ -1,0 +1,18 @@
+public class Main {
+    public static void main(String[] args) {
+
+        int i = 3;
+        byte b = 127;
+        char ch = 'a';
+        short sh = 23423;
+        long l = 24134234;
+        double f = 3.14;
+
+        System.out.println(i);
+        System.out.println(b);
+        System.out.println(ch);
+        System.out.println(sh);
+        System.out.println(l);
+        System.out.println(f);
+    }
+}
