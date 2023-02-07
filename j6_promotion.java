@@ -1,4 +1,4 @@
-public class Main {
+public class j6_promotion {
     public static void main(String[] args) {
         // java_growth 6 : 타입변환
 
